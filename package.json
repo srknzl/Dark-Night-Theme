@@ -1,0 +1,22 @@
+{
+    "name": "dark-night--theme",
+    "displayName": "Dark Night+ Theme",
+    "description": "Awesome Dark Bluish Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.8.0"
+    },
+    "publisher": "srknzl",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Night+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Night+-color-theme.json"
+            }
+        ]
+    }
+}
