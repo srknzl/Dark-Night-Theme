@@ -6,7 +6,18 @@
     "engines": {
         "vscode": "^1.8.0"
     },
+    "icon": "dark_nightplus_icon.png",
+    "galleryBanner": {
+        "theme": "dark",
+        "color": "007acc"
+    },
+    
+    "bugs": {
+        "url": "https://github.com/srknzl/Dark-Night-Theme/issues",
+        "email": "serkan.ozel@boun.edu.tr"
+    },
     "publisher": "srknzl",
+    "repository": {"type":"git", "url":"https://github.com/srknzl/Dark-Night-Theme"},
     "categories": [
         "Themes"
     ],
